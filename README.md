@@ -1,16 +1,18 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**matheuzinhocomedordeperereca/matheuzinhocomedordeperereca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é matheus luis 
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://WWW.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem javascript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
+
+### Você pode entra em contato comigo 📫
+
+matheusluisb92@gmai.com
+
+@matheusls01__ 
+
+![](https://media1.tenor.com/m/X1UBzspDL3kAAAAC/burn-in-hell-elmo.gif)
+
